@@ -17,6 +17,9 @@ ___
 ***_Smtplib_***
 ___
 ## Demo
+https://user-images.githubusercontent.com/81116984/154850420-04363d97-e7c9-42cf-a840-dc9c1c028da6.mp4
+
+### [FULL VIDEO DEMO](https://youtu.be/aar0NRvNi-8)
 ___
 ## Contributors
 [Nischay](https://github.com/NischayGoyal1)
