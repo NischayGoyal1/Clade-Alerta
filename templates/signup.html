@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1" name="viewport">
+<title>Signup</title>
+<link rel='stylesheet' href='static/css/signup.css' type='text/css'>  
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css">    
+</head>
+<body>
+    <div class="signup">
+    <img data-aos="flip-up" class="img-fluid animated"  src="static/img/signup.png" alt="sign up pic" >
+    <div class="content" data-aos="fade-down-left" data-aos-duration="1000">
+<h1  >Sign Up</h1>
+  <form action="signup" method="post" enctype="multipart/form-data">     
+  
+    <label>Name</label><br><br>
+<input type="text" required name="name"> <br><br>
+<label>Ph. No.</label><br><br>
+<input type="number" required name="phn"> <br><br>
+<label>Location</label><br><br>
+<input type="text" required name="location"> <br><br>
+<label>Email ID</label><br><br>
+<input type="email" required name="emai"> <br><br>
+<label>Password</label><br><br>
+<input type="password" required name="pass"> <br><br>
+
+
+<button type="submit">Register</button>
+</form> 
+</div>
+</div>
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script>
+    AOS.init();
+</script>
+</body>
+</html>
