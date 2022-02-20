@@ -9,12 +9,19 @@ ___
 ## Technologies and Tools used
 
 ***_Python3_***
+</br>
 ***_HTML/CSS/JAVASCRIPT_***
+</br>
 ***_Twilio API_***
+</br>
 ***_NASA Api_***
+</br>
 ***_FLASK_***
+</br>
 ***_Folium/leaflet.js_***
+</br>
 ***_Smtplib_***
+</br>
 ___
 ## Demo
 
